@@ -21,7 +21,7 @@
 
 | 분야 | 설명 | 바로가기 |
 |------|------|----------|
-| 🤖 AI | 머신러닝 및 인공지능 학습 | [🔗 이동](https://github.com/doyeon789/AI) |
+| 🤖 AI | 머신러닝 및 인공지능 학습 | [🔗 이동](https://github.com/doyeon789/Study-AI) |
 | 🧠 Algorithm | 알고리즘 & 자료구조 문제 풀이 | [🔗 이동](https://github.com/doyeon789/Algorithm) |
 | 🐍 Django | Django 기반 백엔드 개발 | [🔗 이동](https://github.com/doyeon789/Study-Django) |
 | ☕ Spring Boot | Java & Spring 서버 개발 | [🔗 이동](https://github.com/doyeon789/Study-SpringBoot) |
