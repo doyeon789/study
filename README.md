@@ -8,11 +8,11 @@
 ## 🚀 Study Stack
 
 <p>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
