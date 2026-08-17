@@ -7,6 +7,7 @@
 
 ## 🚀 Study Stack
 
+
 <p>
   <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
