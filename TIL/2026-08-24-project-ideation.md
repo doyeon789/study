@@ -1,4 +1,4 @@
-# 프로젝트 아이데이션: 문제에서 기술로
+# 프로젝트 아이데이션\
 
 ## 오늘 배운 내용
 
@@ -47,6 +47,3 @@
 
 > 좋은 프로젝트는 “이 기술로 무엇을 만들까?”가 아니라 “이 문제를 가장 잘 해결할 방법은 무엇일까?”에서 시작한다.
 
-## 참고 자료
-
-- [프로젝트 아이데이션 - Google Slides](https://docs.google.com/presentation/d/13kqA7p5X0m4c-IefMZ9XLHyQxnJHLOaW_fYFzJ7YmSE/edit)
